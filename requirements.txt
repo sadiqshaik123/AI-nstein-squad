@@ -1,0 +1,11 @@
+
+streamlit
+fastapi
+uvicorn
+pandas
+httpx
+langchain
+langchain-openai
+langgraph
+chromadb
+fastmcp

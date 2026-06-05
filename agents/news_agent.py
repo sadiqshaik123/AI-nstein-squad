@@ -1,0 +1,1 @@
+class NewsAgent: pass
