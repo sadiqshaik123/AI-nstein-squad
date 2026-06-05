@@ -23,3 +23,4 @@ streamlit run app.py
 ## Configure GenAI Lab
 Update config/settings.py with your API key.
 
+https://chatgpt.com/gg/v/6a226e98fe4481a09a3092865bc73e3e?token=Wx-fDYf50autMiJGuSqPQQ
