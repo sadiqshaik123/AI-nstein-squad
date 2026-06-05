@@ -11,6 +11,15 @@
 - A2A Agent (mocked logistics/weather)
 - GenAI Lab LLM integration
 
+## Create Virtual Environment
+
+### Windows
+
+```powershell
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+```
+
 ## Run
 
 ```bash
