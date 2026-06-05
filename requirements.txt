@@ -1,11 +1,65 @@
+# UI
+streamlit>=1.45.0
 
-streamlit
-fastapi
-uvicorn
-pandas
-httpx
-langchain
-langchain-openai
-langgraph
-chromadb
-fastmcp
+# Backend
+fastapi>=0.115.0
+uvicorn[standard]>=0.34.0
+
+# HTTP
+requests>=2.32.0
+httpx>=0.28.0
+
+# Data Processing
+pandas>=2.2.0
+numpy>=1.26.0
+
+# LangChain
+langchain>=0.3.25
+langchain-core>=0.3.65
+langchain-community>=0.3.25
+langchain-openai>=0.3.21
+
+# LangGraph
+langgraph>=0.4.8
+
+# Embeddings & Vector DB
+chromadb>=1.0.12
+faiss-cpu>=1.11.0
+
+# MCP
+fastmcp>=2.8.0
+
+# Social Media & News
+feedparser>=6.0.11
+snscrape>=0.7.0.20230622
+praw>=7.8.1
+
+# Sentiment Analysis
+transformers>=4.52.0
+torch>=2.7.0
+
+# Machine Learning
+scikit-learn>=1.7.0
+xgboost>=3.0.2
+
+# Environment Variables
+python-dotenv>=1.1.0
+
+# Validation
+pydantic>=2.11.0
+
+# Async Support
+aiohttp>=3.12.0
+asyncio
+
+# Visualization
+plotly>=6.1.0
+
+# Optional Bloomberg Integration
+blpapi
+
+# Kaggle Integration
+kaggle>=1.7.4
+
+# Logging
+loguru>=0.7.3
